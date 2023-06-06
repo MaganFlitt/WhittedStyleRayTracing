@@ -1,0 +1,6 @@
+Compilation:
+Compile command:
+$ premake4 gmake
+$ make
+Render the scene
+$ ./(source directory) Assets/project.lua
